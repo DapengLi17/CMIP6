@@ -1,0 +1,85 @@
+Running wget-20210529215704.sh version: 1.3.2
+Use wget-20210529215704.sh -h for help.
+
+Script created for 36 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210529215704.sh: line 1040: read: read error: 0: Bad file descriptor
+./wget-20210529215704.sh: line 1057: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_201501-201512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_201601-201612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_201701-201712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_201801-201812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_201901-201912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202001-202012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202101-202112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202201-202212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202301-202312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202401-202412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202501-202512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202601-202612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202701-202712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202801-202812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_202901-202912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203001-203012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203101-203112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203201-203212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203301-203312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203401-203412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203501-203512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203601-203612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203701-203712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203801-203812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_203901-203912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204001-204012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204101-204112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204201-204212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204301-204312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204401-204412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204501-204512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204601-204612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204701-204712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204801-204812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_204901-204912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_highres-future_r1i1p1f1_gn_205001-205012.nc ...Downloading
+  sha256 ok. done!
+done

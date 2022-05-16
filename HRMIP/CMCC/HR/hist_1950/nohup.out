@@ -1,0 +1,63 @@
+Running wget-20210529215903_1990-2014_2021Jul27.sh version: 1.3.2
+Use wget-20210529215903_1990-2014_2021Jul27.sh -h for help.
+
+Script created for 65 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210529215903_1990-2014_2021Jul27.sh: line 1029: read: read error: 0: Bad file descriptor
+./wget-20210529215903_1990-2014_2021Jul27.sh: line 1046: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199001-199012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199101-199112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199201-199212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199301-199312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199401-199412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199501-199512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199601-199612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199701-199712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199801-199812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_199901-199912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200001-200012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200101-200112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200201-200212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200301-200312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200401-200412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200501-200512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200601-200612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200701-200712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200801-200812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_200901-200912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_201001-201012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_201101-201112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_201201-201212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_201301-201312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-HR4_hist-1950_r1i1p1f1_gn_201401-201412.nc ...Downloading
+  sha256 ok. done!
+done

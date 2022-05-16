@@ -1,0 +1,19 @@
+Running wget-20210529000741.sh version: 1.3.2
+Use wget-20210529000741.sh -h for help.
+
+Script created for 3 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210529000741.sh: line 1007: read: read error: 0: Bad file descriptor
+./wget-20210529000741.sh: line 1024: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_CNRM-CM6-1-HR_highres-future_r1i1p1f2_gn_201501-203912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_highres-future_r1i1p1f2_gn_204001-204912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_highres-future_r1i1p1f2_gn_205001-205012.nc ...Downloading
+  sha256 ok. done!
+done

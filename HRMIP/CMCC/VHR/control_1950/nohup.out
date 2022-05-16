@@ -1,0 +1,41 @@
+Running wget-20210726150658_2037-2050_2021Jul27.sh version: 1.3.2
+Use wget-20210726150658_2037-2050_2021Jul27.sh -h for help.
+
+Script created for 101 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210726150658_2037-2050_2021Jul27.sh: line 1018: read: read error: 0: Bad file descriptor
+./wget-20210726150658_2037-2050_2021Jul27.sh: line 1035: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_203701-203712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_203801-203812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_203901-203912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204001-204012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204101-204112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204201-204212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204301-204312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204401-204412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204501-204512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204601-204612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204701-204712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204801-204812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_204901-204912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CMCC-CM2-VHR4_control-1950_r1i1p1f1_gn_205001-205012.nc ...Downloading
+  sha256 ok. done!
+done

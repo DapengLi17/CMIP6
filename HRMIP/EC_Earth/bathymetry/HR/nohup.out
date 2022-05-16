@@ -1,0 +1,15 @@
+Running wget-20210730155134.sh version: 1.3.2
+Use wget-20210730155134.sh -h for help.
+
+Script created for 1 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210730155134.sh: line 1005: read: read error: 0: Bad file descriptor
+./wget-20210730155134.sh: line 1022: read: read error: 0: Bad file descriptor
+
+
+deptho_Ofx_EC-Earth3P-HR_highres-future_r2i1p2f1_gn.nc ...Downloading
+  sha256 ok. done!
+done

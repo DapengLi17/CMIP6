@@ -1,0 +1,301 @@
+Running wget-20210527163326.sh version: 1.3.2
+Use wget-20210527163326.sh -h for help.
+
+Script created for 144 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210527163326.sh: line 1148: read: read error: 0: Bad file descriptor
+./wget-20210527163326.sh: line 1165: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201501-201503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201504-201506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201507-201509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201510-201512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201601-201603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201604-201606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201607-201609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201610-201612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201701-201703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201704-201706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201707-201709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201710-201712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201801-201803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201804-201806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201807-201809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201810-201812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201901-201903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201904-201906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201907-201909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_201910-201912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202001-202003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202004-202006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202007-202009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202010-202012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202101-202103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202104-202106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202107-202109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202110-202112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202201-202203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202204-202206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202207-202209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202210-202212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202301-202303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202304-202306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202307-202309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202310-202312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202401-202403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202404-202406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202407-202409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202410-202412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202501-202503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202504-202506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202507-202509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202510-202512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202601-202603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202604-202606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202607-202609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202610-202612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202701-202703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202704-202706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202707-202709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202710-202712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202801-202803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202804-202806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202807-202809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202810-202812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202901-202903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202904-202906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202907-202909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_202910-202912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203001-203003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203004-203006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203007-203009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203010-203012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203101-203103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203104-203106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203107-203109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203110-203112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203201-203203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203204-203206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203207-203209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203210-203212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203301-203303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203304-203306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203307-203309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203310-203312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203401-203403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203404-203406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203407-203409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203410-203412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203501-203503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203504-203506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203507-203509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203510-203512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203601-203603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203604-203606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203607-203609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203610-203612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203701-203703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203704-203706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203707-203709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203710-203712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203801-203803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203804-203806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203807-203809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203810-203812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203901-203903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203904-203906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203907-203909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_203910-203912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204001-204003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204004-204006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204007-204009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204010-204012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204101-204103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204104-204106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204107-204109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204110-204112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204201-204203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204204-204206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204207-204209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204210-204212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204301-204303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204304-204306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204307-204309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204310-204312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204401-204403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204404-204406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204407-204409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204410-204412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204501-204503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204504-204506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204507-204509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204510-204512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204601-204603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204604-204606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204607-204609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204610-204612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204701-204703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204704-204706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204707-204709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204710-204712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204801-204803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204804-204806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204807-204809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204810-204812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204901-204903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204904-204906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204907-204909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_204910-204912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_205001-205003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_205004-205006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_205007-205009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_highres-future_r1i1p1f1_gn_205010-205012.nc ...Downloading
+  sha256 ok. done!
+done

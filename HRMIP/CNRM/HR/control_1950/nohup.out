@@ -1,0 +1,33 @@
+Running wget-20210726153744.sh version: 1.3.2
+Use wget-20210726153744.sh -h for help.
+
+Script created for 10 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210726153744.sh: line 1014: read: read error: 0: Bad file descriptor
+./wget-20210726153744.sh: line 1031: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_195001-195912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_196001-196912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_197001-197912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_198001-198912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_199001-199912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_200001-200912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_201001-201912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_202001-202912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_203001-203912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_CNRM-CM6-1-HR_control-1950_r1i1p1f2_gn_204001-204912.nc ...Downloading
+  sha256 ok. done!
+done

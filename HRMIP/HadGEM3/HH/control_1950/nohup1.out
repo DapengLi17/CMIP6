@@ -1,0 +1,1101 @@
+Running wget-20210726160001.sh version: 1.3.2
+Use wget-20210726160001.sh -h for help.
+
+Script created for 404 file(s)
+(The count won't match if you manually edit this file!)
+
+
+
+./wget-20210726160001.sh: line 1408: read: read error: 0: Bad file descriptor
+./wget-20210726160001.sh: line 1425: read: read error: 0: Bad file descriptor
+
+
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195001-195003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195004-195006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195007-195009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195010-195012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195101-195103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195104-195106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195107-195109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195110-195112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195201-195203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195204-195206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195207-195209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195210-195212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195301-195303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195304-195306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195307-195309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195310-195312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195401-195403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195404-195406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195407-195409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195410-195412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195501-195503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195504-195506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195507-195509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195510-195512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195601-195603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195604-195606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195607-195609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195610-195612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195701-195703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195704-195706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195707-195709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195710-195712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195801-195803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195804-195806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195807-195809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195810-195812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195901-195903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195904-195906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195907-195909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_195910-195912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196001-196003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196004-196006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196007-196009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196010-196012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196101-196103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196104-196106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196107-196109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196110-196112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196201-196203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196204-196206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196207-196209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196210-196212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196301-196303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196304-196306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196307-196309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196310-196312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196401-196403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196404-196406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196407-196409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196410-196412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196501-196503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196504-196506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196507-196509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196510-196512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196601-196603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196604-196606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196607-196609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196610-196612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196701-196703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196704-196706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196707-196709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196710-196712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196801-196803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196804-196806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196807-196809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196810-196812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196901-196903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196904-196906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196907-196909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_196910-196912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197001-197003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197004-197006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197007-197009.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197010-197012.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197101-197103.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197104-197106.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197107-197109.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197110-197112.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197201-197203.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197204-197206.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197207-197209.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197210-197212.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197301-197303.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197304-197306.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197307-197309.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197310-197312.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197401-197403.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197404-197406.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197407-197409.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197410-197412.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197501-197503.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197504-197506.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197507-197509.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197510-197512.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197601-197603.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197604-197606.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197607-197609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197610-197612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197701-197703.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197704-197706.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197707-197709.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197710-197712.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197801-197803.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197804-197806.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197807-197809.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197810-197812.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197901-197903.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197904-197906.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197907-197909.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_197910-197912.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198001-198003.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198004-198006.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198007-198009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198010-198012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198101-198103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198104-198106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198107-198109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198110-198112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198201-198203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198204-198206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198207-198209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198210-198212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198301-198303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198304-198306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198307-198309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198310-198312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198401-198403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198404-198406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198407-198409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198410-198412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198501-198503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198504-198506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198507-198509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198510-198512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198601-198603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198604-198606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198607-198609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198610-198612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198701-198703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198704-198706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198707-198709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198710-198712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198801-198803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198804-198806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198807-198809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198810-198812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198901-198903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198904-198906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198907-198909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_198910-198912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199001-199003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199004-199006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199007-199009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199010-199012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199101-199103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199104-199106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199107-199109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199110-199112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199201-199203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199204-199206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199207-199209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199210-199212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199301-199303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199304-199306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199307-199309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199310-199312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199401-199403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199404-199406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199407-199409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199410-199412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199501-199503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199504-199506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199507-199509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199510-199512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199601-199603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199604-199606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199607-199609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199610-199612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199701-199703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199704-199706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199707-199709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199710-199712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199801-199803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199804-199806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199807-199809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199810-199812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199901-199903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199904-199906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199907-199909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_199910-199912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200001-200003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200004-200006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200007-200009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200010-200012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200101-200103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200104-200106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200107-200109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200110-200112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200201-200203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200204-200206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200207-200209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200210-200212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200301-200303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200304-200306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200307-200309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200310-200312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200401-200403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200404-200406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200407-200409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200410-200412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200501-200503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200504-200506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200507-200509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200510-200512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200601-200603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200604-200606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200607-200609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200610-200612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200701-200703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200704-200706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200707-200709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200710-200712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200801-200803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200804-200806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200807-200809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200810-200812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200901-200903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200904-200906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200907-200909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_200910-200912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201001-201003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201004-201006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201007-201009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201010-201012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201101-201103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201104-201106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201107-201109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201110-201112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201201-201203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201204-201206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201207-201209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201210-201212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201301-201303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201304-201306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201307-201309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201310-201312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201401-201403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201404-201406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201407-201409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201410-201412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201501-201503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201504-201506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201507-201509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201510-201512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201601-201603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201604-201606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201607-201609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201610-201612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201701-201703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201704-201706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201707-201709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201710-201712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201801-201803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201804-201806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201807-201809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201810-201812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201901-201903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201904-201906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201907-201909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_201910-201912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202001-202003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202004-202006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202007-202009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202010-202012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202101-202103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202104-202106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202107-202109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202110-202112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202201-202203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202204-202206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202207-202209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202210-202212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202301-202303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202304-202306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202307-202309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202310-202312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202401-202403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202404-202406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202407-202409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202410-202412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202501-202503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202504-202506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202507-202509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202510-202512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202601-202603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202604-202606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202607-202609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202610-202612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202701-202703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202704-202706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202707-202709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202710-202712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202801-202803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202804-202806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202807-202809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202810-202812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202901-202903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202904-202906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202907-202909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_202910-202912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203001-203003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203004-203006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203007-203009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203010-203012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203101-203103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203104-203106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203107-203109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203110-203112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203201-203203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203204-203206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203207-203209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203210-203212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203301-203303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203304-203306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203307-203309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203310-203312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203401-203403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203404-203406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203407-203409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203410-203412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203501-203503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203504-203506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203507-203509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203510-203512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203601-203603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203604-203606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203607-203609.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203610-203612.nc ...Downloading
+  sha256 ok. done!
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203701-203703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203704-203706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203707-203709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203710-203712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203801-203803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203804-203806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203807-203809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203810-203812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203901-203903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203904-203906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203907-203909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_203910-203912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204001-204003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204004-204006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204007-204009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204010-204012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204101-204103.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204104-204106.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204107-204109.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204110-204112.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204201-204203.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204204-204206.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204207-204209.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204210-204212.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204301-204303.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204304-204306.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204307-204309.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204310-204312.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204401-204403.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204404-204406.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204407-204409.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204410-204412.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204501-204503.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204504-204506.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204507-204509.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204510-204512.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204601-204603.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204604-204606.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204607-204609.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204610-204612.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204701-204703.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204704-204706.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204707-204709.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204710-204712.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204801-204803.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204804-204806.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204807-204809.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204810-204812.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204901-204903.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204904-204906.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204907-204909.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_204910-204912.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_205001-205003.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_205004-205006.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_205007-205009.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+zos_Omon_HadGEM3-GC31-HH_control-1950_r1i1p1f1_gn_205010-205012.nc ...Downloading
+ERROR : http request to OpenID Relying Party service failed.
+download failed
+done
